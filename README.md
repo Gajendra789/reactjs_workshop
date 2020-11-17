@@ -9,6 +9,8 @@ workshop on webdevelopment using reactjs
 ##### Good Afternoon
 ##### Its clear or not
 
+~In computer science, a data structure is a data organization, management~
+
 In computer science, a data structure is a data organization, management
 
 *In computer science, a data structure is a data organization, management*
