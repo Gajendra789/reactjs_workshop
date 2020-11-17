@@ -43,3 +43,10 @@ In computer science, a data structure is a data organization, management
 
 
 ![Hell](https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png)
+
+
+- [x] HTML
+- [x] CSS
+- [] Javascript
+- [] ReactJS
+
